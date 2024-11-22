@@ -3,48 +3,37 @@ export const contentData = [
     title: "Work Experience",
     items: [
       {
-        title: "Senior Front-End Developer at Apple",
-        subTitle: "Remote",
-        date: "2020 - Present",
-        description: "Design system, UI dev and web animations.",
+        title: "University of Payao ปี1",
+        subTitle: "SE UP",
+        date: "2566",
+        description: "xxx.",
       },
       {
-        title: "Front-End Developer at Freelance",
-        subTitle: "Remote",
-        date: "2016 - 2020",
-        description: "Working for clients around the world.",
+        title: "University of Payao ปี2",
+        subTitle: "SE UP",
+        date: "2567",
+        description: "xxx.",
       },
     ],
   },
   {
-    title: "Education",
+    title: "Education School",
     items: [
       {
-        title: "Master's Degree in Computer Science",
-        subTitle: "University of Paris",
-        date: "2015 - 2016",
-        description: "Specialized in web development.",
+        title: "Chonburi Sukkhabot School",
+        subTitle: "Math-Eng มัธยมศึกษาปีที่1-3",
+        date: "2561 - 2563",
+        
       },
       {
-        title: "Bachelor's Degree in Computer Science",
-        subTitle: "University of Paris",
-        date: "2012 - 2015",
-        description: "Specialized in web development.",
+        title: "Chonburi Sukkhabot School",
+        subTitle: "Math-Eng มัธยมศึกษาปีที่4-6",
+        date: "2563 - 2565",
+        
       },
     ],
   },
-  //   @NOTE: You can add more sections here
-  //   {
-  //     title: "Projects",
-  //     items: [
-  //       {
-  //         title: "Project 1",
-  //         subTitle: "Sub Title",
-  //         date: "2015 - 2016",
-  //         description: "Lorem ipsum dolor sit amet, consectetur adipiscing eli",
-  //       },
-  //     ],
-  //   },
+
 ];
 
 export type Content = {
